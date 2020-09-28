@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Tyler",
+    "Potts",
+    "<hello@tlerpotts.co.uk>"
+  ],
+  "author": "Tyler Potts <hello@tlerpotts.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
